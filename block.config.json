@@ -1,0 +1,22 @@
+{
+  "name": "hellothis_todoItem",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/that-coder/hellothis.git",
+    "ssh": "git@github.com:that-coder/hellothis.git",
+    "branch": "block_todoItem"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "Vn1dD-5dMbUhGjunSor7S",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "2JL5IKNQU9YilPwvmIKJ3"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "hellothis",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/that-coder/hellothis.git",
+    "ssh": "git@github.com:that-coder/hellothis.git",
+    "branch": "block_hellothis"
+  },
+  "dependencies": {
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    }
+  },
+  "blockId": "2JL5IKNQU9YilPwvmIKJ3",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}

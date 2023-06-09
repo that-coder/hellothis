@@ -2,8 +2,8 @@
   "name": "hellothis_todoInput",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/that-coder/hellothis.git",
+    "ssh": "git@github.com:that-coder/hellothis.git",
     "branch": "block_todoInput"
   },
   "language": "js",

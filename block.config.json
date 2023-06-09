@@ -2,8 +2,8 @@
   "name": "hellothis",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/that-coder/hellothis.git",
+    "ssh": "git@github.com:that-coder/hellothis.git",
     "branch": "block_hellothis"
   },
   "dependencies": {
